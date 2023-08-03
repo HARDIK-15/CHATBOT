@@ -1,6 +1,6 @@
 import React from 'react';
 import ChatBot from 'react-simple-chatbot';
-import begin from '../Bot';
+import begin from '../bot';
 
 
 const Chatbot = () => {
